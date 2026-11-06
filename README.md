@@ -5,8 +5,8 @@ first (فصحى, RTL) and the original English kept as the default.
 
 | | |
 |---|---|
-| Package | `com.xcauni.twoinone` (beta), `com.xcauni.twoinone.stable`, debug `…dev` |
-| Version | 2.5.0-beta (versionCode 250) |
+| Package | `com.xcauni.twoinone`, `…stable`, debug `…dev` |
+| Version | 2.5.0-beta / 2.4.0 (see Releases) |
 | Android | 10+ (minSdk 29), targetSdk 36, compileSdk 37 |
 | License | GPL-3.0-only, see [LICENSE](LICENSE) |
 
@@ -45,9 +45,7 @@ Kotlin compiler. The APKs land in `base/app/build/outputs/apk/debug/` (per-ABI a
 ## Status
 
 The app is built and installed from this machine (debug-signed, so it updates over a previous
-debug install). The source push to this repository and the APK release are the last step and are
-pending: the binary and its full corresponding source must be published together, as the GPL
-requires.
+debug install). The source push to this repository and the APK release were the last step.
 
 ## Credits
 
